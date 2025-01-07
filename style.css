@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+div{
+    height: 50px;
+    /* border-bottom: 1px solid black; */
+    padding: 10px;
+    background-color: #110000;
+    padding-left: 30px;
+    color: aliceblue;
+    
+}
+
+div a{
+    padding-left: 200px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+input{
+    margin-left: 130px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+button{
+    padding: 6px 20px;
+    border-radius: 4px;
+    background-color: #df7904;
+    color: antiquewhite;
+    font-size: medium;
+}
+
+#logo{
+    padding-left: 0;
+    color: #ff9419;
+}
